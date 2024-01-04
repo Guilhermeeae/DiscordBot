@@ -3,7 +3,12 @@
 
 ### Informações do Robô
 • Nome: _**Smoke**_
-• Foto: (clique aqui)[https://imur.io/perfileefoto]
+<br>
+• Foto: [clique aqui](https://imur.io/perfileefoto)
+<br>
 • Prefixo:
+<br>
 • Comando de Ajuda:
+<br>
 • Comandos no Geral:
+<br>
